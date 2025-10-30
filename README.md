@@ -66,28 +66,25 @@ It provides a foundation for future **IoT monitoring and control systems** and h
 ### 📸 Demo & Screenshots
 ![1](ESP32%20Sender/data/doc/IMG_20230617_003087.jpg)
 
-![4](ESP32%20Sender/data/doc/IMG_20230617_003088.png)
+![2](ESP32%20Sender/data/doc/IMG_20230617_003088.png)
 
-![2](ESP32%20Sender/data/doc/IMG_20230617_003057.jpg)
+![3](ESP32%20Sender/data/doc/IMG_20230617_003057.jpg)
 
-![3](ESP32%20Sender/data/doc/IMG_20230617_003087.jpg)
-
+![4](ESP32%20Sender/data/doc/IMG_20230617_003087.jpg)
 
 ![5](ESP32%20Sender/data/doc/IMG_20230617_003125.jpg)
 
 ![6](ESP32%20Sender/data/doc/IMG_20230617_003147.jpg)
 
-![7](ESP32%20Sender/data/doc/IMG_20230617_003147.jpg)
+![7](ESP32%20Sender/data/doc/IMG_20230617_003221.jpg)
 
-![8](ESP32%20Sender/data/doc/IMG_20230617_003221.jpg)
+![8](ESP32%20Sender/data/doc/IMG_20230617_003323.jpg)
 
-![9](ESP32%20Sender/data/doc/IMG_20230617_003323.jpg)
+![9](ESP32%20Sender/data/doc/IMG_20230617_003329.jpg)
 
-![10](ESP32%20Sender/data/doc/IMG_20230617_003329.jpg)
+![101](ESP32%20Sender/data/doc/IMG_20230617_003406.jpg)
 
-![11](ESP32%20Sender/data/doc/IMG_20230617_003406.jpg)
-
-![12](ESP32%20Sender/data/doc/IMG_20230617_003428.jpg)
+![11](ESP32%20Sender/data/doc/IMG_20230617_003428.jpg)
 
 
 ---
