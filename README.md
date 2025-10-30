@@ -64,7 +64,7 @@ It provides a foundation for future **IoT monitoring and control systems** and h
 ---
 
 ### 📸 Demo & Screenshots
-![Main](ESP32 Sender/data/doc/IMG_20230617_003428.jpg)
+![Main](ESP32%20Sender/data/doc/IMG_20230617_003087.jpg)
 
 
 ---
